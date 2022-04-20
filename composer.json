@@ -1,0 +1,19 @@
+{
+    "name": "amirhossein/repository-pattern",
+    "description": "Simple Repositry Pattern Project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amirhossein\\RepositoryPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amireshoon",
+            "email": "abtin.yas53@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
